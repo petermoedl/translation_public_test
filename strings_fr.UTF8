@@ -1,0 +1,32 @@
+#strings_fr.properties file
+
+login_caption=Логин
+login_header_line1=Залогиньтесь в вашу
+login_header_line2=HMV Digital учетную запись
+login_txt_username_msg=имя пользователя
+login_txt_password_msg=пароль
+login_btn_ok=логин
+
+tray_menu_about=О программе
+tray_menu_status_sync_started=Происходит синхронизация
+tray_menu_status_sync_completed=Синхронизация завершена
+tray_menu_visit=Посетить HMV Digital
+tray_menu_settings=Настройки
+tray_menu_quit=Выйти
+
+settings_caption=Настройки
+settings_lbl_start_on_startup=Запускать при старте системы
+settings_lbl_download_dir=Папка для загрузки
+settings_dlg_download_dir_title=Выберите папку дла загрузки
+settings_dlg_download_dir_msg=Выберите папку дла загрузки
+settings_lbl_show_notifications=Показывать извещения
+settings_tab_general=Общие
+settings_lbl_language=Язык:
+settings_tab_account=Учетная запись
+settings_tab_advanced=Еще
+settings_btn_ok=ok
+settings_btn_cancel=отмена
+settings_btn_logout=выйти
+
+about_caption=О программе
+about_btn_ok=ok
